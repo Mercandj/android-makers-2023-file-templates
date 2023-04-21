@@ -24,6 +24,18 @@ Ce que vous allez apprendre:
 
 ----
 
+### How to display slides
+
+- Setup
+  - Install `npm`. On MacOs via [`brew install node`](https://formulae.brew.sh/formula/node)
+  - Install [`fusuma`](https://hiroppy.github.io/fusuma/docs/getting-started/preparation) via `npm i fusuma -D`
+
+- Run slides
+  - cd `this repo`
+  - `npx fusuma start`
+
+----
+
 ### Android Makers communication
 
 <a href="https://twitter.com/AndroidMakersFR/status/1646808031139692549">

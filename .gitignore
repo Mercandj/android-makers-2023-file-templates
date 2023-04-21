@@ -2,6 +2,7 @@
 .idea
 !.idea/icon.svg
 .gradle
+dist
 /local.properties
 /.idea/caches
 /.idea/libraries

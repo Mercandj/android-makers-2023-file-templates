@@ -1,4 +1,4 @@
-rootProject.name = "android-makers-2023"
+rootProject.name = "android-makers-2023-file-templates"
 rootProject.buildFileName = "build.gradle.kts"
 
 include(":app")
