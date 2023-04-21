@@ -1,5 +1,6 @@
 *.iml
 .idea
+!.idea/icon.svg
 .gradle
 /local.properties
 /.idea/caches
