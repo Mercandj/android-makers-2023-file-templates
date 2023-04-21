@@ -5,4 +5,4 @@
 <br/>
 <img height="500" src="image_file_template_basics.png" width="500" style="display: block; margin: 0 auto"/>
 
-# ...and come see us at our stand
+# ...and come see us at MWM stand

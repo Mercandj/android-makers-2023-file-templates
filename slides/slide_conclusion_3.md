@@ -16,10 +16,10 @@
 
 |                     | File template ? |
 |---------------------|-----------------|
+| Repetitive UI       | ✅               |
+| Repetitive Database | ✅               |
+| Unit test skeleton  | ✅               |
 | MVC, MVP, MVVM      | 🤷‍♂️           |
-| Repetitive UI       | 🤷‍♂️           |
-| Repetitive Database | 🤷‍♂️           |
-| Unit test skeleton  | 🤷‍♂️           |
 | Specific code       | ❌               |
 | Business code       | ❌               |
 
