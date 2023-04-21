@@ -1,8 +1,8 @@
 rootProject.name = "android-makers-2023"
 rootProject.buildFileName = "build.gradle.kts"
-include(
-    ":app"
-)
+
+include(":app")
+
 pluginManagement {
     plugins {
 
