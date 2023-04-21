@@ -2,6 +2,6 @@
 
 ### With what will we work
 
-<img height="150" src="image_vtl.png" width="500" style="display: block; margin: 0 auto"/>
+<img height="150" src="image_vtl_light.png" width="500" style="display: block; margin: 0 auto"/>
 
 - A Java based language that allow access to loop, condition and much more...
