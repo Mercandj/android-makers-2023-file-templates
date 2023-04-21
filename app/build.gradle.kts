@@ -44,7 +44,7 @@ android {
     composeOptions {
         // https://developer.android.com/jetpack/androidx/releases/compose-kotlin#pre-release_kotlin_compatibility
         // https://github.com/jimgoog/ComposeAppUsingPrereleaseComposeCompiler#project-configuration
-        kotlinCompilerExtensionVersion = "1.4.5"
+        kotlinCompilerExtensionVersion = "1.4.6"
     }
 }
 
