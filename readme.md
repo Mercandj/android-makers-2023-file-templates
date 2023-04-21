@@ -1,3 +1,11 @@
 # Android Makers 2023 - Talk file templates
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two speakers for the price of one! ✨<a href="https://twitter.com/MercandalliJ?ref_src=twsrc%5Etfw">@MercandalliJ</a> &amp; Marc Picone will be speaking at <a href="https://twitter.com/hashtag/AMxDC23?src=hash&amp;ref_src=twsrc%5Etfw">#AMxDC23</a> 🇫🇷 You will leave their session understanding <a href="https://twitter.com/hashtag/filetemplates?src=hash&amp;ref_src=twsrc%5Etfw">#filetemplates</a>, how to generate them &amp; how to use them on <a href="https://twitter.com/hashtag/MVVM?src=hash&amp;ref_src=twsrc%5Etfw">#MVVM</a> <a href="https://twitter.com/hashtag/Compose?src=hash&amp;ref_src=twsrc%5Etfw">#Compose</a> or <a href="https://twitter.com/hashtag/Room?src=hash&amp;ref_src=twsrc%5Etfw">#Room</a>. <br><br>Abstract here: <a href="https://t.co/y2DCfDXEfG">https://t.co/y2DCfDXEfG</a> <a href="https://t.co/5FuS0JuFqX">pic.twitter.com/5FuS0JuFqX</a></p>&mdash; Android Makers by droidcon 2023 (@AndroidMakersFR) <a href="https://twitter.com/AndroidMakersFR/status/1646808031139692549?ref_src=twsrc%5Etfw">April 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Android Makers communication
+
+[![android_maker_twitter](https://user-images.githubusercontent.com/3717316/233600361-c03d1439-e8b9-444e-a825-fb8b6fded6e3.png)](https://twitter.com/AndroidMakersFR/status/1646808031139692549)
+
+## Medium article
+
+- [Basic](https://medium.com/mwm-io/crafting-custom-path-formatting-in-intellij-file-templates-for-android-development-c93c4c33689d)
+- [Advanced](https://medium.com/mwm-io/mastering-intellij-file-templates-for-complex-android-views-a-guide-to-multiple-file-creation-with-968b4c82b9f4)
+- [Expert](https://medium.com/mwm-io/creating-custom-room-database-templates-with-intellij-a-comprehensive-guide-for-android-developers-70e8dcdcbbe1)
