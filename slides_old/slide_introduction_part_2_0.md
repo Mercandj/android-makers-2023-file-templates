@@ -1,1 +1,0 @@
-## 3. File template to the moon 🚀

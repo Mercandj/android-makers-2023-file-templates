@@ -2,13 +2,15 @@
 
 <!-- section-title: File templates -->
 
-# <b>File templates</b>
+<br /><br /><br /><br /><br /><br /><br />
 
-## Comment gagner en efficacité avec les file templates ?
+# Comment gagner en **efficacité**
 
-![image_android_makers_logo_light.png](./image_android_makers_logo_light.png?w=440px)
+# avec les **file templates** ?
 
-![image_mwm.png](./image_mwm.png?w=140px)
+<br /><br /><br /><br />
+
+![image_mwm.png](./image_mwm.png?w=140px) ![image_android_makers_logo_light.png](./image_android_makers_logo_light.png?w=240px)
 
 
 ---
@@ -23,85 +25,114 @@
 
 ### 1. Qu'est ce qu'un "File Template" ❓
 
-*Spoiler, vous en utilisez déjà sans le savoir*<br/><br/>
+*Spoiler, vous en utilisez sans le savoir*<br/><br/>
 
 ### 2. Votre premier File Template 👶
 
-*Utilisation sur MVVM & Compose*<br/><br/>
+*En Compose & MVVM*<br/><br/>
 
-### 3. Notre utilisation plus poussée 🚀
+### 3. Utilisation plus poussée 🚀
 
-*Utilisation sur les bases de données*
+*Notre usage avec Room*
 
 <!-- fragments-end -->
 
 ---
 
-<!-- section-title: Live coding #Jon -->
+<!-- section-title: Démo #1 -->
 
-# <b>Live coding 🧑‍💻</b>
-## *Jon*
+<!-- classes: emoji -->
+
+# 🧑🏼‍💻
+
+<br /><br /><br />
+
+### DÉMO
 
 ---
 
 <!-- section-title: Ce que vous avez appris? -->
 
-# <b>Ce que vous avez appris?</b><br /><br />
+# <b>A retenir 🧠</b><br /><br />
 
 <!-- fragments-start -->
-### *1. On utilise des file templates tous les jours*<br /><br />
+
+### *1. On en utilise tous les jours*<br /><br />
 
 ### *2. Même en étant modeste, ils améliorent le quotidien*<br /><br />
 
-### *3. On peut créer plusieurs fichiers d'un coup*
+### *3. Plusieurs fichiers d'un coup* 
+
 <!-- fragments-end -->
 
 ---
 
 <!-- section-title: Transition -->
 
-# <b>Mode avancé</b>
-## *Jon* -> *Marc*
+
+
+<!-- classes: emoji -->
+
+# 🚀
+
+<br /><br /><br />
+
+### Aller plus loin
 
 ---
 
-<!-- section-title: Live coding #Marc -->
+# <b>Database 📀</b><br /><br />
 
-# <b>Live coding 🧑‍💻</b>
-## *Marc*
+![image_presentation_database.png](./image_presentation_database.png?w=500px)
 
 ---
 
-<!-- section-title: Conclusion 1/2 -->
+## *Langage basé sur Java*
 
-# <b>Conclusion</b>
+![image_vtl_light.png](./image_vtl_light.png?w=550px)
+
+---
+
+<!-- section-title: Démo #2 -->
+
+<!-- classes: emoji -->
+
+# 👨🏻‍💻
+
+<br /><br /><br />
+
+### DÉMO
+
+---
+
+# <b>Ce que vous avez appris?</b><br /><br />
+
+#### 1. Child file template<br /><br />
+
+#### 2. Vous pouvez changer le path des files<br /><br />
+
+#### 3. VLT: Accès aux variables, loops, conditions
+
+---
+
+# <b>Conclusion</b><br />
+
+### *Quand les utiliser ?*<br /><br />
 
 <!-- fragments-start -->
-#### Child file template
 
-#### Vous pouvez changer le path des files
+#### UI répétitive: ✅<br /><br />
 
-#### Accès aux variables, loops, conditions
-<!-- fragments-end -->
+#### Base de donnée répétitive: ✅<br /><br />
 
----
+#### Squelette de test unitaire: ✅<br /><br />
 
-<!-- section-title: Conclusion 2/2 -->
+#### MVC, MVP, MVVM: 🤷‍♂️<br /><br />
 
-# <b>Conclusion</b>
+#### Code spécifique: ❌<br /><br />
 
-<!-- fragments-start -->
-#### Repetitive UI: ✅          
+#### Code métier: ❌<br /><br />
 
-#### Repetitive Database: ✅          
-
-#### Unit test skeleton: ✅          
-
-#### MVC, MVP, MVVM: 🤷‍♂️      
-
-#### Specific code: ❌          
-
-#### Business code: ❌   
 <!-- fragments-end -->
 
 ---
@@ -109,3 +140,23 @@
 <!-- section-title: Question❓ -->
 
 # <b>Question ❓</b>
+
+---
+
+<!-- section-title: Go further -->
+
+## <b>Pour aller plus loin</b><br />
+
+#### *Article medium*
+
+<br />
+
+<!-- qr: https://medium.com/mwm-io/crafting-custom-path-formatting-in-intellij-file-templates-for-android-development-c93c4c33689d -->
+
+<br /><br /><br />
+
+#### Retrouvez nous au stand **MWM** 👋
+
+<br />
+
+![image_mwm.png](./image_mwm.png?w=140px)

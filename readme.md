@@ -31,7 +31,7 @@ Ce que vous allez apprendre:
   - Install [`fusuma`](https://hiroppy.github.io/fusuma/docs/getting-started/preparation) via `npm i fusuma -D`
 
 - Run slides
-  - cd `this repo`
+  - cd `android-makers-2023-file-templates`
   - `npx fusuma start`
 
 ----
