@@ -12,7 +12,6 @@
 
 ![image_mwm.png](./image_mwm.png?w=140px) ![image_android_makers_logo_light.png](./image_android_makers_logo_light.png?w=240px)
 
-
 ---
 
 <!-- section-title: Plan -->

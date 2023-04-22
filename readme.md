@@ -34,6 +34,9 @@ Ce que vous allez apprendre:
   - cd `android-makers-2023-file-templates`
   - `npx fusuma start`
 
+- Build slides html folder
+  - run `./build_slides.sh`
+
 ----
 
 ### Android Makers communication
