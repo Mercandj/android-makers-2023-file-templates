@@ -1,6 +1,6 @@
 <!-- classes: title -->
 
-<!-- section-title: File templates -->
+<!-- section-title: Titre -->
 
 <br /><br /><br /><br /><br /><br /><br />
 
@@ -67,15 +67,15 @@
 
 ---
 
-<!-- section-title: Ce que vous avez appris? -->
+<!-- section-title: Récap #1 -->
 
-# <b>A retenir 🧠</b><br /><br />
+# <b>À retenir 🧠</b><br /><br />
 
 <!-- fragments-start -->
 
 ### *1. On en utilise tous les jours*<br /><br />
 
-### *2. Même en étant modeste, ils améliorent le quotidien*<br /><br />
+### *2. Même modeste, ils améliorent le quotidien*<br /><br />
 
 ### *3. Plusieurs fichiers d'un coup*
 
@@ -84,8 +84,6 @@
 ---
 
 <!-- section-title: Transition -->
-
-
 
 <!-- classes: emoji -->
 
@@ -97,11 +95,15 @@
 
 ---
 
-# <b>Database 📀</b><br /><br />
+<!-- section-title: Database -->
+
+# <b>Base de données 📀</b><br /><br />
 
 ![image_presentation_database.png](./image_presentation_database.png?w=500px)
 
 ---
+
+<!-- section-title: VLT -->
 
 ## *Langage basé sur Java*
 
@@ -121,19 +123,23 @@
 
 ---
 
+<!-- section-title: Récap #2 -->
+
 # <b>Ce que vous avez appris?</b><br /><br />
 
 #### 1. Child file template<br /><br />
 
 #### 2. Vous pouvez changer le path des files<br /><br />
 
-#### 3. VLT: Accès aux variables, loops, conditions
+#### 3. VLT: Accès aux variables, boucles, conditions
 
 ---
 
-# <b>Conclusion</b><br />
+<!-- section-title: Conclusion -->
 
-### *Quand les utiliser ?*<br /><br />
+# <b>Conclusion</b><br /><br />
+
+## *Quand les utiliser ?*<br /><br />
 
 <!-- fragments-start -->
 
@@ -159,7 +165,7 @@
 
 ---
 
-<!-- section-title: Go further -->
+<!-- section-title: Aller plus loin -->
 
 ## <b>Pour aller plus loin</b><br />
 
