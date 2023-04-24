@@ -50,6 +50,7 @@ img[alt~="image_mwm.png"] {
   & table {
     border-collapse: separate;
     border-spacing: 1em 2px;
+    border-spacing: 100px 0;
   }
   & table strong {
       --base-font-size: 3.0rem;
