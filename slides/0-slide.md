@@ -14,6 +14,23 @@
 
 ---
 
+<!-- section-title: Speakers -->
+
+<!-- classes: speakers -->
+
+# **Nous**
+
+<br /><br /><br /><br />
+
+| ![image_marc.png](./image_marc.png?w=200px) | ![image_jon.png](./image_jon.png?w=200px) | 
+|---------------------------------------------|-------------------------------------------|
+| **Marc Picone**                             | **Jonathan Mercandalli**                  |
+| Android developer                           | Android Lead                              |
+| MWM                                         | MWM                                       |
+| medium.com/@piconemarc                      | mercandalli.com                           |
+
+---
+
 <!-- section-title: Plan -->
 
 # <b>Plan</b>
@@ -60,7 +77,7 @@
 
 ### *2. Même en étant modeste, ils améliorent le quotidien*<br /><br />
 
-### *3. Plusieurs fichiers d'un coup* 
+### *3. Plusieurs fichiers d'un coup*
 
 <!-- fragments-end -->
 
