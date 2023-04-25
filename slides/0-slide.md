@@ -127,11 +127,11 @@
 
 # <b>Ce que vous avez appris?</b><br /><br />
 
-#### 1. Child file template<br /><br />
+#### 1. Onglet include pour factoriser<br /><br />
 
-#### 2. Vous pouvez changer le path des files<br /><br />
+#### 2. Changer le path des files<br /><br />
 
-#### 3. VLT: Accès aux variables, boucles, conditions
+#### 3. VLT: variables, boucles, conditions
 
 ---
 
@@ -153,9 +153,17 @@
 
 #### Code spécifique: ❌<br /><br />
 
-#### Code métier: ❌<br /><br />
-
 <!-- fragments-end -->
+
+---
+
+<!-- section-title: Alternatives -->
+
+# <b>Alternatives</b><br /><br />
+
+## *1. Live templates*<br /><br />
+## *2. Mutualisation par Composition*<br /><br />
+## *3. Mutualisation par Héritage*<br /><br />
 
 ---
 
