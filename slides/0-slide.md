@@ -39,7 +39,7 @@
 
 <!-- fragments-start -->
 
-### 1. Qu'est ce qu'un "File Template" ❓
+### 1. Qu'est ce qu'un "File Template" 
 
 *Spoiler, vous en utilisez sans le savoir*<br/><br/>
 
@@ -109,6 +109,10 @@
 
 ![image_vtl_light.png](./image_vtl_light.png?w=550px)
 
+<br /><br />
+
+*[velocity.apache.org](https://velocity.apache.org/)*
+
 ---
 
 <!-- section-title: Démo #2 -->
@@ -143,13 +147,11 @@
 
 <!-- fragments-start -->
 
-#### UI répétitive: ✅<br /><br />
-
-#### Base de donnée répétitive: ✅<br /><br />
+#### UI répétitive: ✅<br /><br /> Base de donnée répétitive: ✅<br /><br />
 
 #### Squelette de test unitaire: ✅<br /><br />
 
-#### MVC, MVP, MVVM: 🤷‍♂️<br /><br />
+#### MVC, MVP, MVVM, ... : 🤷‍♂️<br /><br />
 
 #### Code spécifique: ❌<br /><br />
 
@@ -171,22 +173,14 @@
 
 # <b>Question ❓</b>
 
----
-
-<!-- section-title: Aller plus loin -->
-
-## <b>Pour aller plus loin</b><br />
-
-#### *Article medium*
-
-<br />
+<br /><br />
 
 <!-- qr: https://medium.com/mwm-io/crafting-custom-path-formatting-in-intellij-file-templates-for-android-development-c93c4c33689d -->
 
 <br /><br /><br />
 
-#### Retrouvez nous au stand **MWM** 👋
+Retrouvez nous au stand **MWM** 👋
 
 <br />
 
-![image_mwm.png](./image_mwm.png?w=140px)
+![image_mwm.png](./image_mwm.png?w=100px)
