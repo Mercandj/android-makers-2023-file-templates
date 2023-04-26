@@ -125,13 +125,13 @@
 
 <!-- section-title: Récap #2 -->
 
-# <b>Ce que vous avez appris?</b><br /><br />
+# <b>Ce que vous avez appris ?</b><br /><br />
 
 #### 1. Onglet include pour factoriser<br /><br />
 
-#### 2. Changer le path des files<br /><br />
+#### 2. Changer le chemin des fichiers<br /><br />
 
-#### 3. VLT: variables, boucles, conditions
+#### 3. VTL: variables, boucles, conditions
 
 ---
 
