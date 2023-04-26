@@ -2,7 +2,7 @@
 
 <!-- section-title: Titre -->
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 # Comment gagner en **efficacité**
 
@@ -10,24 +10,16 @@
 
 <br /><br /><br /><br />
 
-![image_mwm.png](./image_mwm.png?w=140px) ![image_android_makers_logo_light.png](./image_android_makers_logo_light.png?w=240px)
 
----
-
-<!-- section-title: Speakers -->
-
-<!-- classes: speakers -->
-
-# **Nous**
-
-<br /><br /><br /><br />
-
-| ![image_marc.png](./image_marc.png?w=200px) | ![image_jon.png](./image_jon.png?w=200px) | 
+| ![image_marc.png](./image_marc.png?w=180px) | ![image_jon.png](./image_jon.png?w=180px) | 
 |---------------------------------------------|-------------------------------------------|
 | **Marc Picone**                             | **Jonathan Mercandalli**                  |
-| Android developer                           | Android Lead                              |
-| MWM                                         | MWM                                       |
+| Android developer @MWM                      | Android Lead @MWM                         |
 | medium.com/@piconemarc                      | mercandalli.com                           |
+
+<br /><br /><br />
+
+![image_mwm.png](./image_mwm.png?w=140px) ![image_android_makers_logo_light.png](./image_android_makers_logo_light.png?w=240px)
 
 ---
 

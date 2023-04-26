@@ -29,6 +29,15 @@
   & h1 {
     font-size: 5.8rem;
   }
+  & table {
+    border-collapse: separate;
+    border-spacing: 1em 2px;
+    border-spacing: 100px 0;
+  }
+  & table strong {
+      --base-font-size: 3.0rem;
+      font-size: 3.0rem;
+  }
 }
 
 img[alt~="image_mwm.png"] {
@@ -43,17 +52,5 @@ img[alt~="image_mwm.png"] {
 
   & h1 {
     font-size: 14rem;
-  }
-}
-
-.speakers {
-  & table {
-    border-collapse: separate;
-    border-spacing: 1em 2px;
-    border-spacing: 100px 0;
-  }
-  & table strong {
-      --base-font-size: 3.0rem;
-      font-size: 3.0rem;
   }
 }
