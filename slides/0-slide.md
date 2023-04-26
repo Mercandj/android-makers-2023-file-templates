@@ -14,7 +14,7 @@
 | ![image_marc.png](./image_marc.png?w=180px) | ![image_jon.png](./image_jon.png?w=180px) | 
 |---------------------------------------------|-------------------------------------------|
 | **Marc Picone**                             | **Jonathan Mercandalli**                  |
-| Android developer @MWM                      | Android Lead @MWM                         |
+| Développeur Android @MWM                    | Lead Android @MWM                         |
 | medium.com/@piconemarc                      | mercandalli.com                           |
 
 <br /><br /><br />
