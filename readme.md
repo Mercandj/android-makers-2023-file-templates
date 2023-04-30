@@ -26,6 +26,8 @@ Ce que vous allez apprendre:
 
 ### How to display slides
 
+- Via github host [here](https://mercandj.github.io/android-makers-2023-file-templates)
+
 - Setup
   - Install `npm`. On MacOs via [`brew install node`](https://formulae.brew.sh/formula/node)
   - Install [`fusuma`](https://hiroppy.github.io/fusuma/docs/getting-started/preparation) via `npm i fusuma -D`
